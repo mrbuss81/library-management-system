@@ -117,3 +117,9 @@ It also aligns with my goal of expanding practical skills through projects like 
 
 ---
 
+### 🧭 Ongoing Journey
+Part of my ongoing **Computer Science journey at the University of the Fraser Valley** —  
+follow for updates as I continue expanding projects like this one and explore new  
+ideas through my *CompSciRVDad* portfolio and YouTube channel.
+
+

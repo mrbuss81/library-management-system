@@ -88,9 +88,32 @@ LinkedIn: Coming soon
 
 📚 Academic Documentation
 
-This project originated as part of COMP 230 – Database Management Systems (UFV).
-See the detailed submission materials in:
+This project originated as part of **COMP 230 – Database Management Systems (UFV)**.  
+See the detailed submission materials in:  
+- [`er-model/README.md`](er-model/README.md)  
+- [`database-dump/README.md`](database-dump/README.md)
 
-er-model/README.md
+---
 
-database-dump/README.md
+## 🚀 Future Work / Next Steps
+
+This project represents **Phase 1** of a larger development path.
+
+### 🎯 Planned Enhancements
+- **Assignment 2 Integration:**  
+  Extend the current schema to include triggers, stored procedures, and more advanced SQL queries for automation and data validation.
+- **Front-End Connection:**  
+  Design a simple web interface (HTML/CSS/JavaScript or React) that interacts with the PostgreSQL backend for member and staff operations.
+- **API Development:**  
+  Build a lightweight RESTful API to connect future applications or dashboards.
+- **Testing & Optimization:**  
+  Add unit tests, refine indexing strategies, and explore query performance tuning.
+- **Deployment:**  
+  Experiment with hosting the PostgreSQL database locally or via cloud platforms for remote access.
+
+### 🧩 Long-Term Vision
+This library database serves as a foundation for exploring **full-stack development** concepts — combining backend SQL expertise, front-end interfaces, and automation tools.  
+It also aligns with my goal of expanding practical skills through projects like the *Costco Price App* and upcoming software engineering coursework.
+
+---
+

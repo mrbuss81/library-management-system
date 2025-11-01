@@ -35,7 +35,6 @@ Library-Management-System/
 │ └── README.md # Academic submission for COMP 230 (ER + design notes)
 └── normalization/ # 1NF, 2NF, 3NF analysis and dependency notes
 
-
 ---
 
 ## 🧠 Design Highlights

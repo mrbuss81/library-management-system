@@ -27,13 +27,13 @@ It demonstrates the complete process of **database modeling, normalization, and 
 ## 🗂️ Project Structure
 
 Library-Management-System/
-├── README.md # Portfolio overview (this file)
-├── data-dictionary/ # Attribute definitions and data types
-├── database-dump/ # SQL schema, create-tables.sql, and insert data
-│ └── README.md # Implementation notes and load instructions
-├── er-model/ # ER diagram and design documentation
-│ └── README.md # Academic submission for COMP 230 (ER + design notes)
-└── normalization/ # 1NF, 2NF, 3NF analysis and dependency notes
+README.md - Portfolio overview (this file)
+data-dictionary/ - Attribute definitions and data types
+database-dump/ - SQL schema, create-tables.sql, and insert data
+README.md - Implementation notes and load instructions
+er-model/ - ER diagram and design documentation
+README.md - Academic submission for COMP 230 (ER + design notes)
+normalization/ - 1NF, 2NF, 3NF analysis and dependency notes
 
 ---
 
